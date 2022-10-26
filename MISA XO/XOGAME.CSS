@@ -1,0 +1,53 @@
+
+
+
+
+
+.game-page__title {
+	align-content: center;
+	text-align: center;
+    
+}
+
+
+.game-page__score {
+	margin: 5px;
+	text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.warpper{
+
+
+    height: 400px;
+    width: 400px;
+    background-color: rgb(182, 134, 159); 
+    margin-right: auto;
+    margin-left: auto;
+    
+    text-align: center;
+    
+}
+
+.board__cell{
+height: 120px; 
+width: 120px;
+margin: 5px;
+border: 2xp solid;
+background-color: rgb(210, 17, 133);
+float: left;
+color: cornsilk;
+font-size: 100px ;
+text-align: center;
+
+}
+
+#restartBtn {
+    margin: 20px;
+    	text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+
+}
